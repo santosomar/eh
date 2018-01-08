@@ -5,18 +5,18 @@ This repository includes several references and supplemental material for the O'
 
 ### DAY ONE
 
-* Overview of Ethical Hacking and Penetration Testing
-* Introduction to Kali Linux
-* Passive and Active Reconnaissance
-* Introduction to Hacking Web Applications
-* Introduction to Hacking User Credentials
-* Introduction to Hacking Databases
+* Lesson 1: Overview of Ethical Hacking and Penetration Testing
+* Lesson 2: Introduction to Kali Linux
+* Lesson 3: Passive and Active Reconnaissance
+* Lesson 4: Introduction to Hacking Web Applications
+* Lesson 5: Introduction to Hacking User Credentials
+* Lesson 6: Introduction to Hacking Databases
 
 ### DAY TWO
 
-* Introduction to Hacking Networking Devices
-* Fundamentals of Wireless Hacking
-* Introduction to Buffer Overflows
-* Fundamentals of Evasion and Post Exploitation Techniques
-* Introduction to Social Engineering
-* How to Write Penetration Testing Reports
+* Lesson 7: Introduction to Hacking Networking Devices
+* Lesson 8: Fundamentals of Wireless Hacking
+* Lesson 9: Introduction to Buffer Overflows
+* Lesson 10: Fundamentals of Evasion and Post Exploitation Techniques
+* Lesson 11: Introduction to Social Engineering
+* Lesson 12: How to Write Penetration Testing Reports
